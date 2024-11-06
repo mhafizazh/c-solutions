@@ -43,5 +43,5 @@ c1 = c2;
 
 ```c
 c3.real = c1.real + c2.real;
-c4.imaginary = c1.imaginary + c2.imaginary;
+c3.imaginary = c1.imaginary + c2.imaginary;
 ```
